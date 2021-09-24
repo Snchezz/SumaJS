@@ -26,3 +26,10 @@ body{
 #resultado {
     color: #008000;
 }
+
+#name {
+    text-align: center;
+    background: -webkit-linear-gradient(60deg, #E21143, #FFB03A););
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
